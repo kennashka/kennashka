@@ -1,5 +1,7 @@
 # kennashka
 
+Kennashka's Node.js Application displaying online portfolio
+
 ## Install Dependencies
 
 ```bash
