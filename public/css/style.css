@@ -72,7 +72,7 @@ li {
 }
 
 a {
-  color: white;
+  color: #33b5e5;
 }
 
 a:hover, a:focus {
@@ -227,6 +227,11 @@ a:hover, a:focus {
 }
 
 .github:hover {
+  background-color: #284f6d;
+  transition: background-color .4s;
+}
+
+.website:hover {
   background-color: #284f6d;
   transition: background-color .4s;
 }
