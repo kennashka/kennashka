@@ -1,4 +1,4 @@
-# kennashka
+# Kennashka
 
 Kennashka's Node.js Application displaying online portfolio
 
